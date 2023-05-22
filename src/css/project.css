@@ -1,0 +1,41 @@
+.ds{
+    margin-right: 30px;
+    color: white;
+}
+.ds:active{
+    border-bottom: 2px solid red;
+}
+.dv{
+    margin-left: 30px;
+    color: white;
+   
+}
+.ds:hover{
+    border-bottom: 2px solid red;
+}
+.dv:hover{
+    border-bottom: 2px solid red;
+}
+#full{
+    background-color: #292929;
+    width: 100%;
+    position: relative;
+}
+#hdsdv{
+    background-color: #292929;
+    width: 100%;
+}
+.overflow-auto{
+   max-height: 500px;
+}
+
+#ima{
+    width: 33%;
+}
+#lik{
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+
+}
