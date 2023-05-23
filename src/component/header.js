@@ -6,7 +6,7 @@ import { Nav, Navbar } from 'react-bootstrap';
 function Header() {
 
     return (
-        <Navbar id="van" className=""  expand="lg" > <div className="col-1"></div>
+        <Navbar id="van" className="fixed-top"  expand="lg" > <div className="col-1"></div>
             <img id="logo" className="img-fluid" src="logo.png"></img>
             <div className="col-2"></div> <div className="col-2"></div>  <div className="col-2"></div>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />

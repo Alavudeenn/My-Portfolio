@@ -3,12 +3,14 @@ import "../css/about.css";
 import { Link } from "react-router-dom";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+
 function ReadMore() {
     const [isReadMore, setIsReadMore] = useState(false);
 
     const toggleReadMore = () => {
       setIsReadMore(!isReadMore);
     };
+
 
     return (
         <div className="bg" id="about">

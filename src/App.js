@@ -7,16 +7,18 @@ import About1 from './component/about1';
 import Footer from './component/footer';
 import Project from './component/project';
 
+
 function App() {
   return (
     <div>
       <Header />
-      <Home />
-      <About />
-      <About1 />
-      <Project />
+      <div className='top'>
+        <Home />
+        <About />
+        <About1 />
+        <Project />
+      </div>
       <Footer />
-
 
     </div>
 

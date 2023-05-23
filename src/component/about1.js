@@ -8,7 +8,7 @@ import 'aos/dist/aos.css';
 function about1() {
     AOS.init({
         duration: 800,
-        delay: 230,
+        delay: 300,
     });
 
 
@@ -35,7 +35,7 @@ function about1() {
 
             <div className="row justify-content-evenly " id="Design">
                 <div className="col-6 m-0" >
-                    <div data-aos="fade-right">
+                    <div data-aos="zoom-in">
                         <h4 className="p-4 m-0" id="i1"> DESIGN </h4>
                         <img src="design.png"></img>
                         <p>I can design the site based on your needs and suggestions.
@@ -46,7 +46,7 @@ function about1() {
             <br></br>
             <div className="row justify-content-evenly ">
                 <div className="col-6 m-0">
-                    <div data-aos="fade-left">
+                    <div data-aos="zoom-in">
                         <h4 className="p-4 " id="i2">DEVELOPMENT</h4>
                         <img src="develop.png"></img>
 
@@ -60,7 +60,7 @@ function about1() {
             <div className="row justify-content-evenly">
 
                 <div className="col-6 m-0">
-                    <div data-aos="fade-up">
+                    <div data-aos="zoom-in">
                         <h4 className="p-4" id="i3"> MAINTENANCE</h4>
                         <img src="main.png"></img>
                         <p>I can maintain the site based on your needs and suggestions.

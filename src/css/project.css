@@ -32,6 +32,7 @@
 #ima{
     width: 33%;
 }
+
 #lik{
     text-decoration: none;
     background-color: transparent;
@@ -39,3 +40,16 @@
     color: #fff;
 
 }
+.section {
+    transition: transform .5s ease-out;
+  }
+  
+  .section.show {
+    transform: translateX(50%);
+  }
+  
+  .section.hide {
+    transform: translateX(100%);
+  }
+  
+  
