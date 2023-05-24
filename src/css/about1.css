@@ -71,7 +71,6 @@
 @media only screen and(max-width:414px) {
   .row{
    margin-right: 0% !important;
-   margin-left: 0%;
    margin-right: calc(0 * var(--bs-gutter-x));
   }
 }
