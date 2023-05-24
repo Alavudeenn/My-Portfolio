@@ -64,11 +64,11 @@
    display: flex;
    flex-wrap: wrap;
    margin-top: calc(-1 * var(--bs-gutter-y));
-   margin-right: 0%;
+   margin-right: 0% !important;
    margin-left: 0%;
 }
 @media only screen and(max-width:414px) {
   .row{
-   margin-right: 0%;
+   margin-right: 0% !important;
   }
 }
