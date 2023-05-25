@@ -45,7 +45,7 @@ function Home() {
 
                         <h3 className="content">JUNIOR DEVELOPER</h3>
                         <div className="">
-                            <a href="Resume.pdf" download="resume.pdf">
+                            <a href="resume.pdf" download="Resume.pdf">
                                 <button className="button my-5"> Download Resume</button>
                             </a>
                         </div>
