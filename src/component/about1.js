@@ -15,7 +15,7 @@ function about1() {
     return (
         <div className="all" >
             <div className="p-5">
-                <h3 className="abt"> | CAREER OBJECTIVE |</h3>
+                <h3 className="abt"> ~CAREER OBJECTIVE~ </h3>
                 <div data-aos="fade-up">
                     <p className="row p-4" id="content">
                         Highly motivated and passionate UI/UX designer and front-end developer with a strong background in design principles and coding.
@@ -112,6 +112,7 @@ function about1() {
 
                         </div>
                     </div>
+
                     <h5 className="p-5">LEARNING :</h5>
                     <div className="d-flex justify-content-around ">
 

@@ -24,7 +24,7 @@ function Home() {
             <div class="container text-center">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 col-12">
-                        <h3 className="first">Hii, I am</h3>
+                        <h3 className="first">Hi, I am</h3>
 
 
                         <div className="body">

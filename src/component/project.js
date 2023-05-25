@@ -63,10 +63,7 @@ function Project() {
                                 <div>
                                     <a href="https://hireyou.me/" target="_blank">
                                         <img src="hire.png" className="img-fluid p-2" id="ima"></img></a>
-                                        <a href="#!" target="_blank">
-                                        <img src="ecc.png" className="img-fluid p-2" id="ima"></img></a>
-                                    <a href="#!" target="_blank">
-                                        <img src="ecl.png" className="img-fluid p-2" id="ima"></img></a>
+
                                 </div>
                             )}
 
